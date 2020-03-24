@@ -5,8 +5,8 @@ authors = ["Lilith645 <lilith@inet-sys.com>"]
 edition = "2018"
 
 [dependencies]
-maat_graphics = { path = "./Maat-Graphics/" }
-maat_input_handler = { path = "./Maat-InputHandler/" }
+maat_graphics = { path = "../Maat-Graphics/" }
+maat_input_handler = { path = "../Maat-InputHandler/" }
 parking_lot = "0.9"
 rand = "0.7.0"
 rand_pcg = "0.2.0"
